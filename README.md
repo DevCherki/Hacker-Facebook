@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="ar">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <div class="container">
         <h1>Hacker-Facebook</h1>
         <p>هذا السكريبت مخصص لاختراق الحسابات العشوائية على فيسبوك باستخدام مكتبة <code>Guess</code>.</p>
              <li><strong>خطوات التثبيت</strong>
@@ -27,14 +19,5 @@
                 <pre><code>python Cherki.py</code></pre>
             </li>
         </ol>
-
-           <li>تحذير قانوني
-            <strong>هذا السكريبت يتم تقديمه لأغراض تعليمية فقط. لا يُسمح باستخدامه لاختراق الحسابات بشكل غير قانوني أو غير أخلاقي. استخدام هذا السكريبت في أغراض غير قانونية يعرضك للمساءلة القانونية.</strong>
-
-
-            <li>تواصل معنا
-            <strong>>إذا كان لديك أي استفسار أو مشكلة، لا تتردد في فتح تذكرة في قسم <a href="https://github.com/DevCherki/Hacker-Facebook/issues">issues</a>.</strong>
-
-
 </body>
 </html>

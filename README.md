@@ -26,6 +26,6 @@ pkg install python-pip</code></pre>
                 <pre><code>python Cherki.py</code></pre>
             </li>
         </ol>
-        <code>سوف يقوم السكريبت باختراق حسابات فيسبوك عشوائيا</code>
+        <code>تم سوف يقوم السكريبت باختراق حسابات فيسبوك عشوائيا</code>
 </body>
 </html>

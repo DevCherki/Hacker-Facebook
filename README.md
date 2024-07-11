@@ -23,7 +23,7 @@ pkg install python-pip</code></pre>
                 <pre><code>cd Hacker-Facebook</code></pre>
             </li>
             <li><strong>تشغيل السكريبت:</strong>
-                <pre><code>python Cherki.py</code></pre>
+                <pre><code>python main.py</code></pre>
             </li>
         </ol>
         <code>تم سوف يقوم السكريبت باختراق حسابات فيسبوك عشوائيا</code>

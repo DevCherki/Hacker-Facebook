@@ -28,12 +28,12 @@
             </li>
         </ol>
 
-          <strong>  <li>تحذير قانوني</li></strong>
+           <li>تحذير قانوني
             <strong>هذا السكريبت يتم تقديمه لأغراض تعليمية فقط. لا يُسمح باستخدامه لاختراق الحسابات بشكل غير قانوني أو غير أخلاقي. استخدام هذا السكريبت في أغراض غير قانونية يعرضك للمساءلة القانونية.</strong>
 
 
-            <li>تواصل معنا</li>
-            <code>إذا كان لديك أي استفسار أو مشكلة، لا تتردد في فتح تذكرة في قسم <a href="https://github.com/DevCherki/Hacker-Facebook/issues">issues</a>.</code>
+            <li>تواصل معنا
+            <strong>>إذا كان لديك أي استفسار أو مشكلة، لا تتردد في فتح تذكرة في قسم <a href="https://github.com/DevCherki/Hacker-Facebook/issues">issues</a>.</strong>
 
 
 </body>

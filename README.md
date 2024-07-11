@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
         <h1>Hacker-Facebook</h1>
         <p>هذا السكريبت مخصص لاختراق الحسابات العشوائية على فيسبوك باستخدام مكتبة <code>Guess</code>.</p>
              <li><strong>خطوات التثبيت</strong>

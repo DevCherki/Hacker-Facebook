@@ -9,10 +9,10 @@
         <h1>Hacker-Facebook</h1>
         <p>هذا السكريبت مخصص لاختراق الحسابات العشوائية على فيسبوك باستخدام مكتبة <code>Guess</code>.</p>
              <li><strong>خطوات التثبيت</strong>
-                <code>pkg update</code>
-<code>pkg upgrade</code>
-<code>pkg install python</code>
-<code>pkg install python-pip</code>
+               <pre> <code>pkg update</code></pre>
+<pre><code>pkg upgrade</code></pre>
+<pre><code>pkg install python</code></pre>
+<pre><code>pkg install python-pip</code></pre>
             </li>
             <li><strong>تثبيت مكتبة <code>pyTelegramBotAPI</code>:</strong>
                 <pre><code>pip install pyTelegramBotAPI</code></pre>
@@ -32,8 +32,8 @@
             <strong>هذا السكريبت يتم تقديمه لأغراض تعليمية فقط. لا يُسمح باستخدامه لاختراق الحسابات بشكل غير قانوني أو غير أخلاقي. استخدام هذا السكريبت في أغراض غير قانونية يعرضك للمساءلة القانونية.</strong>
 
 
-            <strong>تواصل معنا</strong>
-            <strong>إذا كان لديك أي استفسار أو مشكلة، لا تتردد في فتح تذكرة في قسم <a href="https://github.com/DevCherki/Hacker-Facebook/issues">issues</a>.</strong>
+            <li>تواصل معنا</li>
+            <code>إذا كان لديك أي استفسار أو مشكلة، لا تتردد في فتح تذكرة في قسم <a href="https://github.com/DevCherki/Hacker-Facebook/issues">issues</a>.</code>
 
 
 </body>
